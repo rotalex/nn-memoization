@@ -1,0 +1,3 @@
+/home/rotaru/Desktop/play/upwork/smallest_nn/model_tester/build/CMakeFiles/rebuild_cache.dir
+/home/rotaru/Desktop/play/upwork/smallest_nn/model_tester/build/CMakeFiles/edit_cache.dir
+/home/rotaru/Desktop/play/upwork/smallest_nn/model_tester/build/CMakeFiles/example-app.dir
